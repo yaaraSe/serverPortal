@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z6mtdwQ2ocUDBIi1XzQKwQ9hZOB5uiw2iOORxfhdotE=",
+  "Source": "serverPortal",
+  "BasePath": "_content/serverPortal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
