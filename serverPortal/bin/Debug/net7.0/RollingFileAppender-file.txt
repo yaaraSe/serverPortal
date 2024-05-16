@@ -1,0 +1,8 @@
+2024-05-06 08:08:12,115 INFO This is my first log message
+2024-05-06 08:08:12,198 DEBUG This is a debug message
+2024-05-06 08:08:12,199 INFO This is an information message
+2024-05-06 08:08:12,200 WARN This is a warning message
+2024-05-06 08:08:12,201 ERROR This is an error message
+2024-05-06 08:08:12,201 FATAL This is a fatal message
+2024-05-06 08:08:12,202 INFO Hello from Yaara
+2024-05-06 08:08:12,203 INFO Hello from Yaara
